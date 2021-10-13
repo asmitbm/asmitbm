@@ -30,7 +30,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=rogue)](https://git.io/Asmit2952)
+[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=rogue)]
 
 ---
 
