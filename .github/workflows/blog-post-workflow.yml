@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: Asmit2952/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/asmit2952"
