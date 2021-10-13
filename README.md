@@ -28,11 +28,11 @@ Find out more about me & feel free to connect with me here:
 	</a>
 </p>
 
-<hr>
+---
 
 [![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=rogue)](https://git.io/Asmit2952)
 
-<hr>
+---
 
 ## ⚡ Tech Stack
 
@@ -84,4 +84,8 @@ Find out more about me & feel free to connect with me here:
 - [Biggest underrated resources for programmers](https://dev.to/asmit2952/biggest-underrated-resources-for-programmers-15bk)
 <!-- BLOG-POST-LIST:END -->
 
-![snake svg](https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
