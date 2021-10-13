@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+      # every hour
+    - cron: "0 * * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Asmit2952
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
