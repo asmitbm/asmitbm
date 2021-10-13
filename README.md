@@ -75,4 +75,9 @@ Find out more about me & feel free to connect with me here:
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
+- [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+- [Getting started with Datree](https://dev.to/asmit2952/getting-started-with-datree-581)
+- [How to improve Logic in Programming](https://dev.to/asmit2952/how-to-improve-logic-in-programming-54nd)
+- [Biggest underrated resources for programmers](https://dev.to/asmit2952/biggest-underrated-resources-for-programmers-15bk)
 <!-- BLOG-POST-LIST:END -->
