@@ -30,7 +30,9 @@ Find out more about me & feel free to connect with me here:
 
 <hr>
 
-[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&theme=rogue)](https://git.io/Asmit2952)
+[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=rogue)](https://git.io/Asmit2952)
+
+<hr>
 
 ## ⚡ Tech Stack
 
@@ -68,8 +70,8 @@ Find out more about me & feel free to connect with me here:
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=tokyonight" />
 </p>
 
 ## ✍️ Latest Blog Posts
@@ -81,3 +83,4 @@ Find out more about me & feel free to connect with me here:
 - [How to improve Logic in Programming](https://dev.to/asmit2952/how-to-improve-logic-in-programming-54nd)
 - [Biggest underrated resources for programmers](https://dev.to/asmit2952/biggest-underrated-resources-for-programmers-15bk)
 <!-- BLOG-POST-LIST:END -->
+
