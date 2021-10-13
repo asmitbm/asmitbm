@@ -84,4 +84,4 @@ Find out more about me & feel free to connect with me here:
 - [Biggest underrated resources for programmers](https://dev.to/asmit2952/biggest-underrated-resources-for-programmers-15bk)
 <!-- BLOG-POST-LIST:END -->
 
-![snake gif](https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg)
