@@ -77,7 +77,7 @@ Find out more about me & feel free to connect with me here:
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-3b31)
+- [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
 - [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
 - [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
 - [Getting started with Datree](https://dev.to/asmit2952/getting-started-with-datree-581)
