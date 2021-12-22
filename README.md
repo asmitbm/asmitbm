@@ -1,6 +1,6 @@
-# Hey, I am Asmit! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+# Hey, I am Asmit! Great to see you here! <img src="/src/wave.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img src="/src/header_.png">
 
 I am Asmit Malakannawar, currently pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at
 my desk sketching stuff.
