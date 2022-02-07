@@ -81,11 +81,11 @@ Find out more about me & feel free to connect with me here:
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Docker](https://dev.to/asmit2952/introduction-to-docker-23jl)
 - [What are Containers?](https://dev.to/asmit2952/what-are-containers-3k10)
 - [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
 - [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
 - [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
-- [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
