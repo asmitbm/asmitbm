@@ -101,9 +101,7 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&theme=radical" />
-</a>
+
 
 <a href="https://github.com/Asmit2952/MP3-Player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&theme=radical" />
