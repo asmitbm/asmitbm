@@ -90,7 +90,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-## 📕 Repositories
+## 📕 Pinned Repositories
 
 <p align="center"
 <a href="https://github.com/Asmit2952/Asmit2952.github.io">
