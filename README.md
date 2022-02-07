@@ -90,6 +90,11 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
+Repositories
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io)](https://github.com/Asmit2952/Asmit2952.github.io)
+---
+
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
