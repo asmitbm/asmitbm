@@ -1,10 +1,14 @@
-# Hey, I am Asmit! Great to see you here! <img src="/src/wave.gif" width="30px">
+# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 <img src="/src/profile_banner.gif">
 
-I am Asmit Malakannawar, currently pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at
-my desk sketching stuff.
+* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
+* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
+
+* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+
+When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
