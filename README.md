@@ -109,31 +109,31 @@ Find out more about me & feel free to connect with me here:
 </a>
 
 <a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/MsgByte_Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MsgByte_Chat-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MsgByte_Chat-App&hide_border=true&theme=radical" />
 </a>
 
 </p>
