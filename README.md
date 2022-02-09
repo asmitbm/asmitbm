@@ -85,7 +85,7 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
 </p>
 
-## ✍️ Latest Blog Posts
+## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Docker](https://dev.to/asmit2952/introduction-to-docker-23jl)
