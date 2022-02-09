@@ -95,11 +95,15 @@ Find out more about me & feel free to connect with me here:
 - [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
 <!-- BLOG-POST-LIST:END -->
 
+## 🔝 Most used languages
+
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+
 ---
 
 ## 📕 Pinned Repositories
 
-<p align="center"
+<p align="center">
 <a href="https://github.com/Asmit2952/Asmit2952.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&theme=radical" />
 </a>
