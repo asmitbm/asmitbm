@@ -105,7 +105,7 @@ Find out more about me & feel free to connect with me here:
 
 <p align="center">
 <a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
