@@ -10,8 +10,7 @@
 
 * 💻 Currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
-Find out more about me & feel free to connect with me here:
+When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
