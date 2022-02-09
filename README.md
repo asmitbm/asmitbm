@@ -137,9 +137,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 </p>
 
----
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)
+<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
 
 ---
 
