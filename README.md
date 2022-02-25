@@ -88,11 +88,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Chatwoot in your web dev project](https://dev.to/asmit2952/integrating-chatwoot-in-your-web-dev-project-43o9)
 - [Introduction to Docker](https://dev.to/asmit2952/introduction-to-docker-23jl)
 - [What are Containers?](https://dev.to/asmit2952/what-are-containers-3k10)
 - [Hacktoberfest 2021: My Experience](https://dev.to/asmit2952/hacktoberfest-2021-my-experience-3k5l)
 - [Make your own color palette for next project!](https://dev.to/asmit2952/make-your-own-color-palette-for-next-project-28pe)
-- [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
