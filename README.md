@@ -91,11 +91,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is FOSSology and how to set it up?](https://dev.to/asmit2952/what-is-fossology-and-how-to-set-it-up-4j47)
 - [7 biases of dev-tool product teams](https://dev.to/asmit2952/7-biases-of-dev-tool-product-teams-1ng5)
 - [Setting Windows PowerShell environment variables](https://dev.to/asmit2952/setting-windows-powershell-environment-variables-2glb)
 - [Integrating Chatwoot in your web dev project](https://dev.to/asmit2952/integrating-chatwoot-in-your-web-dev-project-43o9)
 - [Introduction to Docker](https://dev.to/asmit2952/introduction-to-docker-23jl)
-- [What are Containers?](https://dev.to/asmit2952/what-are-containers-3k10)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
