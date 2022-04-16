@@ -111,8 +111,8 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/Asmit2952/Open-Source-Programs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Asmit2952/Weather-App">
@@ -135,8 +135,8 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MsgByte_Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MsgByte_Chat-App&hide_border=true&theme=radical" />
+<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
 </a>
 
 </p>
