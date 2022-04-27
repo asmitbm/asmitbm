@@ -8,7 +8,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
+* 💻 Currently learning [React](https://reactjs.org/).
 
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
