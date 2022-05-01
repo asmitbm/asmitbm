@@ -91,7 +91,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are vector search engines?](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
+- [What is vector search engine?](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
 - [What is SEO?](https://dev.to/asmit2952/what-is-seo-1dj6)
 - [What is SAWO Labs Champ Program?](https://dev.to/asmit2952/what-is-sawo-labs-champ-program-41id)
 - [What is FOSSology and how to set it up?](https://dev.to/asmit2952/what-is-fossology-and-how-to-set-it-up-4j47)
