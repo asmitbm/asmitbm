@@ -13,7 +13,7 @@
 * 📰 Subscribe to my newsletter: 
 
 <p align="center">
-<a href="https://www.getrevue.co/profile/asmit" target="_blank">
+<a href="https://www.getrevue.co/profile/asmit">
    <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 </p>	
