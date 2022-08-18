@@ -111,7 +111,9 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ## 🔝 Most used languages
 
+<p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+</p>
 
 ---
 
