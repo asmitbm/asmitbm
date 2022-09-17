@@ -8,7 +8,7 @@
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
 
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+* 💡 Always open to collaborating on projects and innovative ideas. 
 
 * 💻 Currently learning [React](https://reactjs.org/).
 
