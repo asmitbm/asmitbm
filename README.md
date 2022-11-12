@@ -10,7 +10,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently learning [React](https://reactjs.org/).
+* 💻 Learning [React](https://reactjs.org/).
 
 * 📰 Subscribe to my newsletter: 
 
