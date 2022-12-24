@@ -103,11 +103,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GNOME Asia 2022 - My first international conference](https://dev.to/asmit2952/gnome-asia-2022-my-first-international-conference-32ib)
 - [Google Summer of Code 2022 | Faces of GNOME](https://dev.to/asmit2952/google-summer-of-code-2022-faces-of-gnome-47bl)
 - [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj)
 - [What is a vector search engine?](https://dev.to/asmit2952/what-are-vector-search-engines-3lp1)
 - [What is SEO?](https://dev.to/asmit2952/what-is-seo-1dj6)
-- [What is SAWO Labs Champ Program?](https://dev.to/asmit2952/what-is-sawo-labs-champ-program-41id)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
