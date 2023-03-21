@@ -15,19 +15,19 @@
 When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
+	<a href="https://www.linkedin.com/in/asmitbm/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="https://twitter.com/asmitbm">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
+	<a href="https://dev.to/asmitbm">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://asmit2952.github.io/">
+        <a href="https://asmitbm.github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="https://www.behance.net/asmit2952">
+	<a href="https://www.behance.net/asmitbm">
 		<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 	</a>
 	<a href="https://asmit.bio.link/">
