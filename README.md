@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+<a href="https://asmitbm.github.io/"><img src="/src/profile_banner.gif"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
@@ -91,24 +91,24 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmitbm&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitbm&hide_border=true&theme=radical" />
 </p>
 
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Season of Docs&#39;22 Project Report](https://dev.to/asmit2952/google-season-of-docs22-project-report-3f1a)
-- [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmit2952/google-season-of-docs22-with-weaviate-4m0e)
-- [GNOME Asia 2022 - My first international conference](https://dev.to/asmit2952/gnome-asia-2022-my-first-international-conference-32ib)
-- [Google Summer of Code 2022 - Final Report | Faces of GNOME](https://dev.to/asmit2952/google-summer-of-code-2022-faces-of-gnome-47bl)
-- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmit2952/google-summer-of-code-with-gnome-foundation-5adj)
+- [Google Season of Docs&#39;22 Project Report](https://dev.to/asmitbm/google-season-of-docs22-project-report-3f1a)
+- [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmitbm/google-season-of-docs22-with-weaviate-4m0e)
+- [GNOME Asia 2022 - My first international conference](https://dev.to/asmitbm/gnome-asia-2022-my-first-international-conference-32ib)
+- [Google Summer of Code 2022 - Final Report | Faces of GNOME](https://dev.to/asmitbm/google-summer-of-code-2022-faces-of-gnome-47bl)
+- [Google Summer of Code with GNOME Foundation.](https://dev.to/asmitbm/google-summer-of-code-with-gnome-foundation-5adj)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitbm&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
@@ -116,44 +116,44 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/asmitbm.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=asmitbm.github.io&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/Open-Source-Programs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Open-Source-Programs&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/Weather-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Weather-App&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/Web-accessibility-tester">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/MP3-Player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=MP3-Player&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/CLI-passgen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=CLI-passgen&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/URL-Shortener">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=URL-Shortener&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/asmitbm/Twitter-Dynamic-Header">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
 </a>
 
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
+<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asmitbm&hide_border=true&theme=redical)-->
 
 ---
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/asmitbm/asmitbm/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
