@@ -98,11 +98,11 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Summer of Code 2023 with conda-forge](https://dev.to/asmitbm/google-summer-of-code-2023-with-conda-forge-12c4)
 - [From Mentee to Mentor: My Journey through LFX Mentorship](https://dev.to/asmitbm/from-mentee-to-mentor-my-journey-through-lfx-mentorship-bnk)
 - [Google Season of Docs&#39;22 Project Report](https://dev.to/asmitbm/google-season-of-docs22-project-report-3f1a)
 - [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmitbm/google-season-of-docs22-with-weaviate-4m0e)
 - [GNOME Asia 2022 - My first international conference](https://dev.to/asmitbm/gnome-asia-2022-my-first-international-conference-32ib)
-- [Google Summer of Code 2022 - Final Report | Faces of GNOME](https://dev.to/asmitbm/google-summer-of-code-2022-faces-of-gnome-47bl)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
