@@ -1,18 +1,18 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://asmitbm.github.io/"><img src="/src/profile_banner.gif"></a>
+<a href="https://asmitbm.me/"><img src="/src/banner.png"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
 * 🎓 Currently a Lead at [GDSC BVP Pune](https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/). 
 
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
+* 🧑🏻‍💻 Product designer & an open-source enthusiast. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Learning [React](https://reactjs.org/).
+* 💻 Learning [Next.js](https://nextjs.org/).
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/asmitbm/">
@@ -24,7 +24,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 	<a href="https://dev.to/asmitbm">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://asmitbm.github.io/">
+        <a href="https://asmitbm.me/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://www.behance.net/asmitbm">
@@ -44,13 +44,13 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ### 🚀 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### 🧩 Libraries & Framework
 
@@ -61,8 +61,6 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ### 🧑🏻‍💻 Tools & Platform
@@ -109,45 +107,6 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitbm&layout=compact&hide_border=true&theme=radical" />
-</p>
-
----
-
-## 📕 Pinned Repositories
-
-<p align="center">
-<a href="https://github.com/asmitbm/asmitbm.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=asmitbm.github.io&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Open-Source-Programs&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Weather-App&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=MP3-Player&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/asmitbm/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmitbm&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
-</a>
-
 </p>
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asmitbm&hide_border=true&theme=redical)-->
