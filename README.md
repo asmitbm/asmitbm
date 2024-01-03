@@ -4,8 +4,6 @@
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
-* 🎓 Currently a Lead at [GDSC BVP Pune](https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/). 
-
 * 🧑🏻‍💻 Product designer & an open-source enthusiast. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
