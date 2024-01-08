@@ -87,7 +87,7 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmitbm&show_icons=true&hide_border=true\&rank_icon=github\&hide=issues" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmitbm&show_icons=true&hide_border=true\&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitbm&hide_border=true" />
 </p>
 
@@ -104,7 +104,7 @@ Find out more about me & feel free to connect with me here:
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitbm&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitbm&layout=compact&hide_border=true" />
 </p>
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asmitbm&hide_border=true&theme=redical)-->
