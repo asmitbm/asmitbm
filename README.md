@@ -2,9 +2,9 @@
 
 <a href="https://asmitbm.me/"><img src="/src/banner.png"></a>
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
+* 🧑‍🎨 Product designer at [Tuist](https://tuist.dev). 
 
-* 🧑🏻‍💻 Product designer & an open-source enthusiast. 
+* 🧑‍💻 Open-source enthusiast. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
